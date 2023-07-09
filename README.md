@@ -2,7 +2,7 @@
 
 An engine I am making is both for fun and something to suit my style of creating games, right now it is very barebones with a simple rendering system and model importing
 
-##Planned Features
+## Planned Features
 - Simple but extendable Editor
 - Custom scripting language
 - Physics
@@ -16,5 +16,5 @@ An engine I am making is both for fun and something to suit my style of creating
 - UI system using a builder or an entity
 - Misc features (splines, water system, particles, etc)
 
-##Current State
+## Current State
 Right now I need to improve it, currently busy with some other stuff but will try to work on it
