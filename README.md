@@ -17,4 +17,4 @@ An engine I am making is both for fun and something to suit my style of creating
 - Misc features (splines, water system, particles, etc)
 
 ## Current State
-Right now I need to improve it, currently busy with some other stuff but will try to work on it
+This project is abandoned, I am currently learning C++ to rebuild it, but feel free to fork it and do whatever you want with this project
